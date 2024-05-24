@@ -1,0 +1,6 @@
+﻿  client.cpp
+C:\Users\meylor\source\repos\Hackathon\client\client.cpp(101,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\client\client.cpp(137,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\client\client.cpp(169,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\client\client.cpp(186): warning C4715: 'Client::SendAdminPassword': not all control paths return a value
+  client.vcxproj -> C:\Users\meylor\source\repos\Hackathon\x64\Debug\client.lib

@@ -1,0 +1,17 @@
+﻿  database.cpp
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(34,5): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(47,46): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(52,47): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(115,5): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(128,40): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(133,47): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(173,5): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(186,47): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(223,5): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(235,46): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(240,47): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(273,5): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(286,40): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(323,5): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\meylor\source\repos\Hackathon\server\database.cpp(335,40): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+  server.vcxproj -> C:\Users\meylor\source\repos\Hackathon\x64\Debug\server.exe

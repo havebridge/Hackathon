@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>mainWindowClass</class>
+ <widget class="QWidget" name="mainWindowClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>727</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Prosoft</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: gray;</string>
+  </property>
+  <widget class="QWidget" name="widget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>741</width>
+     <height>411</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(28,28,28,150);
+setalignment: center
+</string>
+   </property>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>225</x>
+      <y>160</y>
+      <width>81</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>13</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: white;
+background-color: transparent;</string>
+    </property>
+    <property name="text">
+     <string>Password</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>225</x>
+      <y>100</y>
+      <width>51</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>13</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="autoFillBackground">
+     <bool>false</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: white;
+background-color: transparent;
+</string>
+    </property>
+    <property name="text">
+     <string>Login</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="LoginLineEdit">
+    <property name="geometry">
+     <rect>
+      <x>225</x>
+      <y>130</y>
+      <width>280</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>13</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgba(14,14,14,150);
+color: white;
+border-radius: 5px;</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="PasswordLineEdit">
+    <property name="geometry">
+     <rect>
+      <x>225</x>
+      <y>190</y>
+      <width>280</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgba(14,14,14,150);
+color: white;
+border-radius: 5px;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="SignUpToButton">
+    <property name="geometry">
+     <rect>
+      <x>225</x>
+      <y>230</y>
+      <width>121</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>13</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(44,168,60);
+border-radius: 5px;</string>
+    </property>
+    <property name="text">
+     <string>Sign Up</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="SignInToButton">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>230</y>
+      <width>121</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>13</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(44,168,60);
+border-radius: 5px;</string>
+    </property>
+    <property name="text">
+     <string>Sign In</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="mainWindow.qrc"/>
+ </resources>
+ <connections/>
+</ui>
