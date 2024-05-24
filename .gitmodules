@@ -1,0 +1,3 @@
+[submodule "vendor/json"]
+    path = vendor/json
+    url = https://github.com/nlohmann/json/tree/a259ecc51e1951e12f757ce17db958e9881e9c6c
